@@ -15,13 +15,13 @@ th {
 }
 
 #btn {
+   text-align:center;
     background-color: aquamarine;
     color: #000;
     border: 1px solid #000;
     width: 100%;
     padding: 5px;
     cursor: pointer;
-     text-align:center;
 }
 
 .display {
